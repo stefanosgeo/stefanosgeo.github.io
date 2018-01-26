@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/stefanosgeo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stefanosgeo.github.io
+    * I am stefanosgeo (https://keybase.io/stefanosgeo) on keybase.
+      * I have a public key ASDddClTjMMolZjgRSgtPMQ50mhRhxjWM6iL4SWMm8Deqwo
+
+      To do so, I am signing this object:
+
+      {
+            "body": {
+                    "key": {
+                              "eldest_kid":
+                              "0101b3c8a2fcc006983f0690aac0c8a847d215d026d8f486d46abf7566ba7a16393b0a",
+                                    "host": "keybase.io",
+                                          "kid":
+                                          "0120dd7429538cc3289598e045282d3cc439d268518718d633a88be1258c9bc0deab0a",
+                                                "uid": "f951e1ee89e20f86c56addccceeac419",
+                                                      "username": "stefanosgeo"
+                                                          },
+                                                              "merkle_root": {
+                                                                        "ctime": 1516971395,
+                                                                              "hash":
+                                                                              "b9e1ec942079d65877d777634c74164473be3447bafcff78ab55b1f52f7667d879ab8f5a3254a773874b64edb1c4038f68c6fc00ff004054dda56b8108e070b0",
+                                                                                    "hash_meta":
+                                                                                    "e1d75c0b713464dcf35af7a6be754f0db2451ffa5c90b1c89ce0da0d43ed3854",
+                                                                                          "seqno":
+                                                                                          1985917
+                                                                                              },
+                                                                                                  "service":
+                                                                                                  {
+                                                                                                            "hostname":
+                                                                                                            "stefanosgeo.github.io",
+                                                                                                                  "protocol":
+                                                                                                                  "https:"
+                                                                                                                      },
+                                                                                                                          "type":
+                                                                                                                          "web_service_binding",
+                                                                                                                              "version":
+                                                                                                                              1
+                                                                                                                                },
+                                                                                                                                  "client":
+                                                                                                                                  {
+                                                                                                                                          "name":
+                                                                                                                                          "keybase.io
+                                                                                                                                          go
+                                                                                                                                          client",
+                                                                                                                                              "version":
+                                                                                                                                              "1.0.40"
+                                                                                                                                                },
+                                                                                                                                                  "ctime":
+                                                                                                                                                  1516971403,
+                                                                                                                                                    "expire_in":
+                                                                                                                                                    504576000,
+                                                                                                                                                      "prev":
+                                                                                                                                                      "8499f63f62db7288cfeb339cc3befb56f0fd4046de02ec96f3ef9053f18ee858",
+                                                                                                                                                        "seqno":
+                                                                                                                                                        22,
+                                                                                                                                                          "tag":
+                                                                                                                                                          "signature"
+      }
+
+      which yields the signature:
+
+      hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3XQpU4zDKJWY4EUoLTzEOdJoUYcY1jOoi+EljJvA3qsKp3BheWxvYWTFA1F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYjNjOGEyZmNjMDA2OTgzZjA2OTBhYWMwYzhhODQ3ZDIxNWQwMjZkOGY0ODZkNDZhYmY3NTY2YmE3YTE2MzkzYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGQ3NDI5NTM4Y2MzMjg5NTk4ZTA0NTI4MmQzY2M0MzlkMjY4NTE4NzE4ZDYzM2E4OGJlMTI1OGM5YmMwZGVhYjBhIiwidWlkIjoiZjk1MWUxZWU4OWUyMGY4NmM1NmFkZGNjY2VlYWM0MTkiLCJ1c2VybmFtZSI6InN0ZWZhbm9zZ2VvIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE2OTcxMzk1LCJoYXNoIjoiYjllMWVjOTQyMDc5ZDY1ODc3ZDc3NzYzNGM3NDE2NDQ3M2JlMzQ0N2JhZmNmZjc4YWI1NWIxZjUyZjc2NjdkODc5YWI4ZjVhMzI1NGE3NzM4NzRiNjRlZGIxYzQwMzhmNjhjNmZjMDBmZjAwNDA1NGRkYTU2YjgxMDhlMDcwYjAiLCJoYXNoX21ldGEiOiJlMWQ3NWMwYjcxMzQ2NGRjZjM1YWY3YTZiZTc1NGYwZGIyNDUxZmZhNWM5MGIxYzg5Y2UwZGEwZDQzZWQzODU0Iiwic2Vxbm8iOjE5ODU5MTd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic3RlZmFub3NnZW8uZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDAifSwiY3RpbWUiOjE1MTY5NzE0MDMsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiODQ5OWY2M2Y2MmRiNzI4OGNmZWIzMzljYzNiZWZiNTZmMGZkNDA0NmRlMDJlYzk2ZjNlZjkwNTNmMThlZTg1OCIsInNlcW5vIjoyMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECeDt8o2MR3IXYLxGX6WA5xNimUttO1GMI3BY+6qCv2axF0QJhT/Gg4PnKku+50IvBo97Bvbs9AuV/txz3BfvcOqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg+x/XxNBdC1Cyr3sqt1jNI3lLhXeanBiL/EkIb14z45yjdGFnzQICp3ZlcnNpb24B
+
+      And finally, I am proving ownership of this host by posting or
+      appending to this document.
+
+      View my publicly-auditable identity here: https://keybase.io/stefanosgeo
+
+      ==================================================================
+
