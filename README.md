@@ -1,2 +1,2 @@
 # stefanosgeo.github.io
-websiete
+Personal website
