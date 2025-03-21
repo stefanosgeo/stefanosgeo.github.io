@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/snippets/</loc>
+    <loc>https://stefnanosgeo.github.io/snippets/</loc>
     <lastmod>2025-03-21T22:42:54+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://stefnanosgeo.github.io/</loc>
     <lastmod>2025-03-21T22:42:54+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/snippets/my-first-post/</loc>
+    <loc>https://stefnanosgeo.github.io/snippets/my-first-post/</loc>
     <lastmod>2025-03-21T22:42:54+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello-hugo/</loc>
+    <loc>https://stefnanosgeo.github.io/posts/hello-hugo/</loc>
     <lastmod>2025-03-21T22:41:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://stefnanosgeo.github.io/posts/</loc>
     <lastmod>2025-03-21T22:41:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://stefnanosgeo.github.io/about/</loc>
     <lastmod>2025-03-21T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://stefnanosgeo.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://stefnanosgeo.github.io/tags/</loc>
   </url>
 </urlset>
