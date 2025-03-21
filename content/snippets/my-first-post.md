@@ -1,9 +1,9 @@
 +++
 date = '2025-03-21T22:42:54+01:00'
-title = 'Usefull linux commands'
+title = 'Useful linux commands'
 +++
 
-These are some usefull commands that I use for everday working with linux
+These are some useful commands that I use for everday working with linux
 
 ```
  du -hs .[^.]* * | sort -h
