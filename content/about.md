@@ -16,5 +16,4 @@ My current projects
 ## Contact
 
 - Email: stefanos.georgopoulos@fau.de
-- LinkedIn: https://www.linkedin.com/in/stefanos-georgiou/
 - GitHub: https://github.com/stefanosgeo
