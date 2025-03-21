@@ -1,0 +1,24 @@
+baseURL = 'https://stefnanosgeo.github.io/'
+languageCode = 'en-us'
+title = 'Stefanos Georgopoulos'
+theme = 'PaperMod'
+summaryLength = 30
+
+[menu]
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "snippets"
+name = "Snippets"
+url = "/snippets/"
+weight = 2
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 3
