@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Stefanos Georgopoulos</title>
-    <link>https://stefnanosgeo.github.io/</link>
-    <description>Recent content on Stefanos Georgopoulos</description>
+    <title>Welcome on Stefanos Georgopoulos</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome on Stefanos Georgopoulos</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Mar 2025 22:42:54 +0100</lastBuildDate>
-    <atom:link href="https://stefnanosgeo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Mar 2025 23:38:26 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Usefull linux commands</title>
-      <link>https://stefnanosgeo.github.io/snippets/my-first-post/</link>
+      <title>Interesting Links</title>
+      <link>http://localhost:1313/snippets/interesting-links/</link>
+      <pubDate>Fri, 21 Mar 2025 23:38:26 +0100</pubDate>
+      <guid>http://localhost:1313/snippets/interesting-links/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;A collection of interesting links arount the web&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/gitlab-org/gitlab-foss/-/blob/13becf042617083d6d95507dd621934077370c5e/doc/ci/examples/laravel_with_gitlab_and_envoy/index.md&#34;&gt;Setup gitlab CI/CD with Laravel Envoy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Useful linux commands</title>
+      <link>http://localhost:1313/snippets/my-first-post/</link>
       <pubDate>Fri, 21 Mar 2025 22:42:54 +0100</pubDate>
-      <guid>https://stefnanosgeo.github.io/snippets/my-first-post/</guid>
-      <description>&lt;p&gt;These are some usefull commands that I use for everday working with linux&lt;/p&gt;
+      <guid>http://localhost:1313/snippets/my-first-post/</guid>
+      <description>&lt;p&gt;These are some useful commands that I use for everday working with linux&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; du -hs .[^.]* * | sort -h
 &lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
       <title>Hello Hugo</title>
-      <link>https://stefnanosgeo.github.io/posts/hello-hugo/</link>
+      <link>http://localhost:1313/posts/hello-hugo/</link>
       <pubDate>Fri, 21 Mar 2025 22:41:10 +0100</pubDate>
-      <guid>https://stefnanosgeo.github.io/posts/hello-hugo/</guid>
+      <guid>http://localhost:1313/posts/hello-hugo/</guid>
       <description>&lt;p&gt;After a long time I decided to update my github blog. The previous version has a simple static html/css website.&lt;/p&gt;
 &lt;p&gt;I decided to try something  different and I will try to experiment with Hugo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://stefnanosgeo.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 21 Mar 2025 12:00:00 +0000</pubDate>
-      <guid>https://stefnanosgeo.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;I was born in Athens and raised in an island nearby. I got my bachelor degree from Computer Science Larisa&lt;/p&gt;
-&lt;p&gt;The last 12 years I have been working as a php developer for Uni Erlange-Nürnberg&lt;/p&gt;</description>
+&lt;p&gt;The last 12 years I have been working as a php developer for Uni Erlangen-Nürnberg&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

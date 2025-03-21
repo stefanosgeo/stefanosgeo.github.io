@@ -4,6 +4,12 @@ title = 'Stefanos Georgopoulos'
 theme = 'PaperMod'
 summaryLength = 30
 
+[params]
+mainSections = ["posts"]
+
+[pagination]
+pagerSize = 5
+
 [menu]
 [[menu.main]]
 identifier = "home"
@@ -12,13 +18,19 @@ url = "/"
 weight = 1
 
 [[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 2
+
+[[menu.main]]
 identifier = "snippets"
 name = "Snippets"
 url = "/snippets/"
-weight = 2
+weight = 3
 
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 3
+weight = 4
