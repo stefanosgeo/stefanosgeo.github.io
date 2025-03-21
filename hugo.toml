@@ -6,6 +6,7 @@ summaryLength = 30
 
 [params]
 mainSections = ["posts"]
+ShowSectionMenus = false
 
 [pagination]
 pagerSize = 5
