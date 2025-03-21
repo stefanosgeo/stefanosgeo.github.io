@@ -6,12 +6,12 @@ draft: false
 
 I was born in Athens and raised in an island nearby. I got my bachelor degree from Computer Science Larisa
 
-The last 12 years I have been working as a php developer for Uni Erlange-Nürnberg
+The last 12 years I have been working as a php developer for Uni Erlangen-Nürnberg
 
 My current projects
 
-- Video portal Uni Erlange-Nürnberg - Main Dev
-- Responsible for Opencast installation in Uni Erlange-Nürnberg
+- [Video portal Uni Erlangen-Nürnberg](https://www.fau.tv) - Main Dev
+- Responsible for [Opencast](https://www.opencast.org) installation in Uni Erlangen-Nürnberg
 
 ## Contact
 
