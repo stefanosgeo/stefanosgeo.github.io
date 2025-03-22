@@ -1,7 +1,5 @@
 ---
 title: "About"
-date: 2025-03-21T12:00:00
-draft: false
 ---
 
 I was born in Athens and raised on a nearby island. I earned my Bachelor's degree in Computer Science from
