@@ -1,6 +1,7 @@
 +++
 date = '2025-03-21T23:38:26+01:00'
 title = 'Interesting Links'
+tags = ["links", "laravel"]
 +++
 
 **A collection of interesting links arount the web**

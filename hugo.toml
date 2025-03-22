@@ -4,6 +4,9 @@ title = 'Stefanos Georgopoulos'
 theme = 'PaperMod'
 summaryLength = 30
 
+[taxonomies]
+tag = "tags"
+
 [params]
 mainSections = ["posts"]
 ShowSectionMenus = false

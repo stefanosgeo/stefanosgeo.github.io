@@ -5,7 +5,16 @@
     <loc>http://localhost:1313/snippets/interesting-links/</loc>
     <lastmod>2025-03-21T23:38:26+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/laravel/</loc>
+    <lastmod>2025-03-21T23:38:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/links/</loc>
+    <lastmod>2025-03-21T23:38:26+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/snippets/</loc>
+    <lastmod>2025-03-21T23:38:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-03-21T23:38:26+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/snippets/my-first-post/</loc>
@@ -21,9 +30,5 @@
     <lastmod>2025-03-21T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
