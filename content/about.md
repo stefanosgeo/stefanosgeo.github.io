@@ -22,5 +22,4 @@ For the past 12 years, I have been working as a PHP developer at the University 
 
 ## Contact
 
-- Email: stefanos.georgopoulos@fau.de
 - GitHub: https://github.com/stefanosgeo
