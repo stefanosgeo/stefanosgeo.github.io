@@ -10,3 +10,6 @@ I decided to try something  different and I will try to experiment with Hugo.
 Stay in touch.
 
 -Stefanos
+
+![alt](/images/hugo.jpg)
+*Hugo logo*
