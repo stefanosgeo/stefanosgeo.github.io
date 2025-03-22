@@ -40,8 +40,9 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 21 Mar 2025 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I was born in Athens and raised in an island nearby. I got my bachelor degree from Computer Science Larisa&lt;/p&gt;
-&lt;p&gt;The last 12 years I have been working as a php developer for Uni Erlangen-Nürnberg&lt;/p&gt;</description>
+      <description>&lt;p&gt;I was born in Athens and raised on a nearby island. I earned my Bachelor&amp;rsquo;s degree in Computer Science from
+the University of Thessaly in Greece.&lt;/p&gt;
+&lt;p&gt;For the past 12 years, I have been working as a PHP developer at the University of Erlangen-Nürnberg.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
