@@ -5,6 +5,5 @@ title = 'Useful linux commands'
 
 These are some useful commands that I use for everday working with linux
 
-```
- du -hs .[^.]* * | sort -h
-```
+- lists folders size inside a folder: ```du -hs .[^.]* * | sort -h ```
+- Connect to keychron keyboard using chrome in linux: ``` sudo chmod a+rw /dev/hidraw3 ```
