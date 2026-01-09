@@ -10,6 +10,43 @@ tag = "tags"
 [params]
 mainSections = ["posts"]
 ShowSectionMenus = false
+ShowReadingTime = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowPostNavLinks = true
+env = "production"
+description = "Personal blog of Stefanos Georgopoulos - PHP Developer passionate about Laravel and DevOps at the University of Erlangen-Nürnberg"
+author = "Stefanos Georgopoulos"
+
+[params.profileMode]
+enabled = true
+title = "Stefanos Georgopoulos"
+subtitle = "PHP Developer | Laravel | DevOps"
+imageUrl = "images/3e274fc6-3dca-4c34-944e-45f9dbf2a739.png"
+imageTitle = "Profile"
+imageWidth = 250
+imageHeight = 250
+
+[[params.profileMode.buttons]]
+name = "Posts"
+url = "/posts"
+
+[[params.profileMode.buttons]]
+name = "Snippets"
+url = "/snippets"
+
+[[params.profileMode.buttons]]
+name = "About"
+url = "/about"
+
+[[params.profileMode.buttons]]
+name = "GitHub"
+url = "https://github.com/stefanosgeo"
+
+[[params.socialIcons]]
+name = "github"
+title = "GitHub"
+url = "https://github.com/stefanosgeo"
 
 [pagination]
 pagerSize = 5

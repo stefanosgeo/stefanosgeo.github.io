@@ -2,46 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Welcome on Stefanos Georgopoulos</title>
-    <link>https://stefanosgeo.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome on Stefanos Georgopoulos</description>
-    <generator>Hugo -- 0.150.0</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Mar 2025 23:38:26 +0100</lastBuildDate>
-    <atom:link href="https://stefanosgeo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interesting Links</title>
-      <link>https://stefanosgeo.github.io/snippets/interesting-links/</link>
+      <link>http://localhost:1313/snippets/interesting-links/</link>
       <pubDate>Fri, 21 Mar 2025 23:38:26 +0100</pubDate>
-      <guid>https://stefanosgeo.github.io/snippets/interesting-links/</guid>
+      <guid>http://localhost:1313/snippets/interesting-links/</guid>
       <description>&lt;p&gt;&lt;strong&gt;A collection of interesting links arount the web&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gitlab.com/gitlab-org/gitlab-foss/-/blob/13becf042617083d6d95507dd621934077370c5e/doc/ci/examples/laravel_with_gitlab_and_envoy/index.md&#34;&gt;Setup gitlab CI/CD with Laravel Envoy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Useful linux commands</title>
-      <link>https://stefanosgeo.github.io/snippets/my-first-post/</link>
+      <title>Useful Linux commands</title>
+      <link>http://localhost:1313/snippets/my-first-post/</link>
       <pubDate>Fri, 21 Mar 2025 22:42:54 +0100</pubDate>
-      <guid>https://stefanosgeo.github.io/snippets/my-first-post/</guid>
-      <description>&lt;p&gt;These are some useful commands that I use for everday working with linux&lt;/p&gt;
+      <guid>http://localhost:1313/snippets/my-first-post/</guid>
+      <description>&lt;p&gt;These are some useful commands that I use for everday working with Linux&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;lists folders size inside a folder: &lt;code&gt;du -hs .[^.]* * | sort -h &lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Connect to keychron keyboard using chrome in linux: &lt;code&gt;sudo chmod a+rw /dev/hidraw3&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Connect to keychron keyboard using chrome in Linux: &lt;code&gt;sudo chmod a+rw /dev/hidraw3&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Watch folder changes in Linux &lt;code&gt;inotifywait -m -r folder_name&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
       <title>Hello Hugo</title>
-      <link>https://stefanosgeo.github.io/posts/hello-hugo/</link>
+      <link>http://localhost:1313/posts/hello-hugo/</link>
       <pubDate>Fri, 21 Mar 2025 22:41:10 +0100</pubDate>
-      <guid>https://stefanosgeo.github.io/posts/hello-hugo/</guid>
+      <guid>http://localhost:1313/posts/hello-hugo/</guid>
       <description>&lt;p&gt;After a long time I decided to update my github blog. The previous version has a simple static html/css website.&lt;/p&gt;
 &lt;p&gt;I decided to try something  different and I will try to experiment with Hugo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://stefanosgeo.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stefanosgeo.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;I was born in Athens and raised on a nearby island. I earned my Bachelor&amp;rsquo;s degree in Computer Science from
 the University of Thessaly in Greece.&lt;/p&gt;
 &lt;p&gt;For the past 12 years, I have been working as a PHP developer at the University of Erlangen-Nürnberg.&lt;/p&gt;</description>
