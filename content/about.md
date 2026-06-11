@@ -22,4 +22,4 @@ For the past 12 years, I have been working as a PHP developer at the University 
 
 ## Contact
 
-- GitHub: https://github.com/stefanosgeo
+- GitHub: [@stefanosgeo](https://github.com/stefanosgeo)

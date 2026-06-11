@@ -11,18 +11,27 @@ tag = "tags"
 mainSections = ["posts"]
 ShowSectionMenus = false
 ShowReadingTime = true
+ShowWordCount = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 ShowPostNavLinks = true
+ShowToc = true
+TocOpen = false
 env = "production"
 description = "Personal blog of Stefanos Georgopoulos - PHP Developer passionate about Laravel and DevOps at the University of Erlangen-Nürnberg"
 author = "Stefanos Georgopoulos"
+
+[params.assets]
+favicon = "/favicon.ico"
+favicon16x16 = "/favicon-16x16.png"
+favicon32x32 = "/favicon-32x32.png"
+apple_touch_icon = "/apple-touch-icon.png"
 
 [params.profileMode]
 enabled = true
 title = "Stefanos Georgopoulos"
 subtitle = "PHP Developer | Laravel | DevOps"
-imageUrl = "images/3e274fc6-3dca-4c34-944e-45f9dbf2a739.png"
+imageUrl = "images/profile.webp"
 imageTitle = "Profile"
 imageWidth = 250
 imageHeight = 250
@@ -47,6 +56,9 @@ url = "https://github.com/stefanosgeo"
 name = "github"
 title = "GitHub"
 url = "https://github.com/stefanosgeo"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
 
 [pagination]
 pagerSize = 5
@@ -75,6 +87,12 @@ identifier = "about"
 name = "About"
 url = "/about/"
 weight = 4
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 5
 
 [[module.mounts]]
 source = 'static'
