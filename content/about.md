@@ -29,7 +29,7 @@ For the past 12 years, I have been working as a PHP developer at the University 
 Public key fingerprint:
 
 ```
-1460 D7C9 01CE 12A1 170B  1998 F1DD D781 9142 7BBD
+31F0 F888 7598 C680 97F1  8394 D524 DB13 9EF8 6837
 ```
 
-Fetch it with `gpg --recv-keys F1DDD78191427BBD`.
+Fetch it with `gpg --recv-keys D524DB139EF86837`.
