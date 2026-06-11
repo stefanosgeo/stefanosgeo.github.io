@@ -23,3 +23,13 @@ For the past 12 years, I have been working as a PHP developer at the University 
 ## Contact
 
 - GitHub: [@stefanosgeo](https://github.com/stefanosgeo)
+
+## GPG
+
+Public key fingerprint:
+
+```
+1460 D7C9 01CE 12A1 170B  1998 F1DD D781 9142 7BBD
+```
+
+Fetch it with `gpg --recv-keys F1DDD78191427BBD`.
